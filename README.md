@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maytsai
-- 👀 I’m interested in data science
+- 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning R, Python, MySQL, Tableau
 - 💞️ I’m looking to collaborate on Data Analysis, Visualization Project
 - 📫 How to reach me chichientsai.us@gmail.com
