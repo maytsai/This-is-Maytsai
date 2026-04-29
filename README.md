@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maytsai
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently a Data Analyst
-- 💞️ I’m looking to generate more data analytics and engineering projects.
+- 🌱 I’m currently a Sr. Data Analyst
+- 👀 I’m interested in understanding why people do what they do — through data, community, and good questions
+- 💞️ I’m looking to learn more about product analytics, data engineering, and building things that explain user behavior
 - 📫 How to reach me: chichientsai.us@gmail.com
 
 <!---
